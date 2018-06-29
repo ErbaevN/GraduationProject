@@ -1,0 +1,24 @@
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\bin\Release\netcoreapp2.0\ReStart2.deps.json
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\bin\Release\netcoreapp2.0\ReStart2.runtimeconfig.json
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\bin\Release\netcoreapp2.0\ReStart2.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\bin\Release\netcoreapp2.0\ReStart2.dll
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\bin\Release\netcoreapp2.0\ReStart2.pdb
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\obj\Release\netcoreapp2.0\ReStart2.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\obj\Release\netcoreapp2.0\ReStart2.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\obj\Release\netcoreapp2.0\ReStart2.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\obj\Release\netcoreapp2.0\ReStart2.AssemblyInfo.cs
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\obj\Release\netcoreapp2.0\ReStart2.dll
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\obj\Release\netcoreapp2.0\ReStart2.pdb
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\bin\Release\netcoreapp2.0\ReStart2.deps.json
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\bin\Release\netcoreapp2.0\ReStart2.runtimeconfig.json
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\bin\Release\netcoreapp2.0\ReStart2.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\bin\Release\netcoreapp2.0\ReStart2.dll
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\bin\Release\netcoreapp2.0\ReStart2.pdb
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Release\netcoreapp2.0\ReStart2.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Release\netcoreapp2.0\ReStart2.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Release\netcoreapp2.0\ReStart2.AssemblyInfo.cs
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Release\netcoreapp2.0\ReStart2.dll
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Release\netcoreapp2.0\ReStart2.pdb
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Release\netcoreapp2.0\ReStart2.csprojResolveAssemblyReference.cache

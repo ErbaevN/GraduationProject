@@ -1,0 +1,168 @@
+﻿body {
+    padding-top: 55px;
+    background-image: url(https://avatanplus.com/files/resources/original/5a8e8e23b7bda161bcdb3ba9.jpg);
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+#qrCode {
+    margin: 15px;
+}
+
+@media screen and (max-width: 767px) {
+
+    .carousel-caption {
+        display: none;
+    }
+} 
+.Arm{
+    width:480px;
+}
+.strukt{ 
+    font-size: 15px;
+}
+.liotst1 {
+    padding-left:4.5vw;
+    float: left;
+}
+.liotst2 {
+    padding-left: 5vw;
+    float: left;
+}
+.noCursor {
+    cursor: auto;
+}
+
+h9 {
+    font-size: 1.1vw;
+    line-height: 0.8vw;
+}
+
+#cont {
+    margin-left:0;
+    width: 65%;
+    border:1px solid purple;
+    border-radius: 8px;
+    background-color: cornflowerblue;
+    opacity: 1;
+}
+
+.cont {
+    margin: 5px;
+    border-radius: 8px;
+    background-color: aqua;
+    opacity: 0.96;
+}
+
+    .cont:focus,
+    .cont.focus {
+        color: #333;
+        background-color: hsl(56, 60%, 55%);
+        border-color: hsl(56, 50%, 65%);
+        opacity: 0.96;
+    }
+
+    .cont:hover {
+        color: #333;
+        background-color: hsl(56, 60%, 55%);
+        border-color: hsl(56, 50%, 65%);
+        opacity: 0.96;
+    }
+
+    .cont:active,
+    .cont.active,
+    .open > .dropdown-toggle.cont {
+        color: #333;
+        background-color: hsl(56, 60%, 55%);
+        border-color: hsl(56, 50%, 65%);
+        opacity: 0.96;
+    }
+
+        .cont:active:hover,
+        .cont.active:hover,
+        .open > .dropdown-toggle.cont:hover,
+        .cont:active:focus,
+        .cont.active:focus,
+        .open > .dropdown-toggle.cont:focus,
+        .cont:active.focus,
+        .cont.active.focus,
+        .open > .dropdown-toggle.cont.focus {
+            color: #333;
+            background-color: hsl(56, 60%, 55%);
+            border-color: hsl(56, 50%, 65%);
+            opacity: 0.96;
+        }
+
+    .cont:active,
+    .cont.active,
+    .open > .dropdown-toggle.cont {
+        background-image: none;
+        opacity: 0.96;
+    }
+
+    .cont.disabled:hover,
+    .cont[disabled]:hover,
+    fieldset[disabled] .cont:hover,
+    .cont.disabled:focus,
+    .cont[disabled]:focus,
+    fieldset[disabled] .cont:focus,
+    .cont.disabled.focus,
+    .cont[disabled].focus,
+    fieldset[disabled] .cont.focus {
+        background-color: hsl(56, 60%, 55%);
+        border-color: hsl(56, 50%, 65%);
+        opacity: 0.96;
+    }
+
+    .cont .badge {
+        color: #fff;
+        background-color: hsl(56, 60%, 55%);
+        opacity: 0.96;
+    }
+
+#TableSize1 {
+    margin-left: 4.5vw;
+    padding-left: 4.4em;
+}
+#TableSize2 {
+    margin-left: 5vw;
+    padding-left:4.8em;
+}
+
+.slide {
+    margin-top: -20px;
+}
+
+
+
+label {
+    color: rgb(203, 243, 204);
+}
+
+h2 {
+    color: rgb(203, 243, 204);
+}
+
+h8 {
+    color: rgb(203, 243, 204);
+    cursor: pointer;
+}
+/*.col-md-4 {
+    background-color: dimgray;
+    opacity: 0.9;
+}*/
+

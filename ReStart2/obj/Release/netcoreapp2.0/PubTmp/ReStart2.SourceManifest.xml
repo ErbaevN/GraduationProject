@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Release\netcoreapp2.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Release\netcoreapp2.0\PubTmp\EFSQLScripts\ReStart2.Data.ApplicationDbContext.sql" />
+</sitemanifest>

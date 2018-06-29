@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="NurPoker" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Артур\\Desktop\\NurPoker\\ReStart3\\ReStart2\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="ReStart2.Data.ApplicationDbContext" description="" value="Server=1-ПК;Database=aspnet-ReStart2-4B50C694-CC61-4E26-A2DF-FD69C3C8AC0C;Trusted_Connection=True;MultipleActiveResultSets=true" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\Артур\\Desktop\\NurPoker\\ReStart3\\ReStart2\\obj\\Release\\netcoreapp2\.0\\PubTmp\\EFSQLScripts\\ReStart2\.Data\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

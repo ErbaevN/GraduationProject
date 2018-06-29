@@ -1,0 +1,127 @@
+﻿@using System.Collections.Generic
+@using System.Linq
+@using Microsoft.AspNetCore.Http
+@using Microsoft.AspNetCore.Http.Authentication
+@model LoginViewModel
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@{
+    ViewData["Title"] = "Главная";
+}
+<environment include="Development">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</environment>
+<environment exclude="Development">
+    <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+          asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+          asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+    <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+</environment>
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a asp-area="" asp-controller="TableList" asp-action="Tables" class="navbar-brand">NurPoker</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li><a asp-area="" asp-controller="Home" asp-action="Index"><h8>Главная</h8></a></li>
+                <li><a href="https://ru.pokernews.com/pravila-pokera/texas-holdem.htm"><h8>Правила Игры</h8></a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Contact"><h8>Контакты</h8></a></li>
+            </ul>
+            @*тут момент с руссским языком@await Html.PartialAsync("_LoginPartial")*@
+            @if (SignInManager.IsSignedIn(User))
+            {
+                <form asp-area="" asp-controller="Account" asp-action="Logout" method="post" id="logoutForm" class="navbar-right">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a class="noCursor" asp-area="" asp-controller="Manage" asp-action="Index" title="Ваша учетная запись"><label>@UserManager.GetUserName(User)!</label></a>
+                        </li>
+                        <li>
+                            <button type="submit" class="btn btn-link navbar-btn navbar-link"><h8>Выход</h8></button>
+                        </li>
+                    </ul>
+                </form>
+            }
+            else
+            {
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a asp-area="" asp-controller="Account" asp-action="Register"><h8>Регистрация</h8></a></li>
+                    <li><a asp-area="" asp-controller="Account" asp-action="Login"><h8>Вход</h8></a></li>
+                </ul>
+            }
+
+        </div>
+    </div>
+</nav>
+<a style="padding-left:20%; top:83%;position:absolute;" asp-controller="TableList" asp-action="Tables">
+    <img style="width:80%;" src="~/images/Logo.png" />
+</a>
+    <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+            <div class="item active Yoil">
+                <img src="~/images/carusel1.png" alt="Об игре" class="img-responsive" />
+                <div class="carousel-caption" role="option">
+
+                    <h9>
+                        По́кер (англ. poker) — карточная игра, цель которой — выиграть ставки, собрав как можно более высокую покерную комбинацию, используя 4 (старый классический вариант), 2, или 5 карт, или вынудив всех соперников прекратить участвовать в игре. Игра идёт с полностью или частично закрытыми картами. Конкретные правила могут варьироваться в зависимости от разновидности покера. Обобщающими элементами всех разновидностей покера являются комбинации и наличие торговли в процессе игры.
+                        <br>
+                        В покер игре NurPoker используются 2 карты.
+                    </h9>
+                    <a class="btn btn-default" asp-area="" asp-controller="TableList" asp-action="Tables">Начать игру</a>
+
+                </div>
+            </div>
+            <div class="item Yoil">
+                <img src="~/images/carusel4.png" alt="Об игре" class="img-responsive" />
+                <div class="carousel-caption" role="option">
+                    <h9>
+                        Количество карт (52 карты) соответствует количеству недель в году. 4 масти (бубны, трефы, пики, червы) – 4 временам года. А тринадцать карт в каждой масти – тринадцати лунным циклам в году. Если сложить все значения карт, имеющихся в колоде, то получим 364 (365 с джокером).
+                        <a class="btn btn-default" asp-area="" asp-controller="TableList" asp-action="Tables">Начать игру</a>
+                    </h9>
+                </div>
+            </div>
+            <div class="item Yoil">
+                <img src="~/images/carusel2.jpg" alt="Package Management" class="img-responsive" />
+                <div class="carousel-caption" role="option">
+                    <h9>
+                        Из 52 карточной колоды, всего можно составить 2 598 960 возможных покерных комбинаций.
+                        <a class="btn btn-default" asp-area="" asp-controller="TableList" asp-action="Tables">Начать игру</a>
+                    </h9>
+                </div>
+            </div>
+            <div class="item Yoil">
+                <img src="~/images/carusel3.jpg" alt="Microsoft Azure" class="img-responsive" />
+                <div class="carousel-caption" role="option">
+                    <h9>
+                        А вы знали, что у покерной фишки есть свои стандарты?
+                        <br>
+                        Её размер всегда неизменен и равен 39 мм в диаметре.<br> Вес же при этом может различаться, и начинается от 4 грамм (считается легкой фишкой),<br> 5-9 г. средняя, 11.5 г – стандарт большинства фишек казино, и до 13г – супертяжелой фишки.
+                        
+                        <a class="btn btn-default" asp-area="" asp-controller="TableList" asp-action="Tables">Начать игру</a>
+                    </h9>
+                </div>
+            </div>
+        </div>
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+

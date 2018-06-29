@@ -1,0 +1,132 @@
+C:\Users\Nurbolat\source\repos\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.deps.json
+C:\Users\Nurbolat\source\repos\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.json
+C:\Users\Nurbolat\source\repos\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.dev.json
+C:\Users\Nurbolat\source\repos\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Nurbolat\source\repos\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Nurbolat\source\repos\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csprojAssemblyReference.cache
+C:\Users\Nurbolat\source\repos\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csproj.CoreCompileInputs.cache
+C:\Users\Nurbolat\source\repos\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfoInputs.cache
+C:\Users\Nurbolat\source\repos\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfo.cs
+C:\Users\Nurbolat\source\repos\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Nurbolat\source\repos\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Nurbolat\source\repos\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Артур\Desktop\туц\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.deps.json
+C:\Users\Артур\Desktop\туц\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.json
+C:\Users\Артур\Desktop\туц\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\туц\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Артур\Desktop\туц\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Артур\Desktop\туц\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\туц\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\туц\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Артур\Desktop\туц\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\туц\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfo.cs
+C:\Users\Артур\Desktop\туц\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Артур\Desktop\туц\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Артур\Desktop\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.deps.json
+C:\Users\Артур\Desktop\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.json
+C:\Users\Артур\Desktop\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Артур\Desktop\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Артур\Desktop\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Артур\Desktop\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfo.cs
+C:\Users\Артур\Desktop\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Артур\Desktop\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Nurbolat\Desktop\VIew to Art\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.deps.json
+C:\Users\Nurbolat\Desktop\VIew to Art\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.json
+C:\Users\Nurbolat\Desktop\VIew to Art\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.dev.json
+C:\Users\Nurbolat\Desktop\VIew to Art\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Nurbolat\Desktop\VIew to Art\ReStart2\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Nurbolat\Desktop\VIew to Art\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csprojAssemblyReference.cache
+C:\Users\Nurbolat\Desktop\VIew to Art\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csproj.CoreCompileInputs.cache
+C:\Users\Nurbolat\Desktop\VIew to Art\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Nurbolat\Desktop\VIew to Art\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfoInputs.cache
+C:\Users\Nurbolat\Desktop\VIew to Art\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfo.cs
+C:\Users\Nurbolat\Desktop\VIew to Art\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Nurbolat\Desktop\VIew to Art\ReStart2\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Nurbolat\Desktop\New\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Nurbolat\Desktop\New\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Nurbolat\Desktop\New\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.deps.json
+C:\Users\Nurbolat\Desktop\New\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.json
+C:\Users\Nurbolat\Desktop\New\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.dev.json
+C:\Users\Nurbolat\Desktop\New\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Nurbolat\Desktop\New\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Nurbolat\Desktop\New\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csprojAssemblyReference.cache
+C:\Users\Nurbolat\Desktop\New\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csproj.CoreCompileInputs.cache
+C:\Users\Nurbolat\Desktop\New\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Nurbolat\Desktop\New\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfoInputs.cache
+C:\Users\Nurbolat\Desktop\New\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfo.cs
+C:\Users\Nurbolat\Desktop\Arttytbil\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.deps.json
+C:\Users\Nurbolat\Desktop\Arttytbil\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.json
+C:\Users\Nurbolat\Desktop\Arttytbil\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.dev.json
+C:\Users\Nurbolat\Desktop\Arttytbil\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Nurbolat\Desktop\Arttytbil\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Nurbolat\Desktop\Arttytbil\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csprojAssemblyReference.cache
+C:\Users\Nurbolat\Desktop\Arttytbil\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csproj.CoreCompileInputs.cache
+C:\Users\Nurbolat\Desktop\Arttytbil\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Nurbolat\Desktop\Arttytbil\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfoInputs.cache
+C:\Users\Nurbolat\Desktop\Arttytbil\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfo.cs
+C:\Users\Nurbolat\Desktop\Arttytbil\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Nurbolat\Desktop\Arttytbil\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Артур\Desktop\14июня\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.deps.json
+C:\Users\Артур\Desktop\14июня\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.json
+C:\Users\Артур\Desktop\14июня\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\14июня\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Артур\Desktop\14июня\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Артур\Desktop\14июня\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\14июня\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Артур\Desktop\14июня\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\14июня\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfo.cs
+C:\Users\Артур\Desktop\14июня\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Артур\Desktop\14июня\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Артур\Desktop\14июня\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.deps.json
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.json
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfo.cs
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Артур\Desktop\14июня - копия (2)\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.deps.json
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.json
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfo.cs
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Артур\Desktop\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Nurbolat\Desktop\вшз\NurPoker\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.deps.json
+C:\Users\Nurbolat\Desktop\вшз\NurPoker\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.json
+C:\Users\Nurbolat\Desktop\вшз\NurPoker\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.dev.json
+C:\Users\Nurbolat\Desktop\вшз\NurPoker\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Nurbolat\Desktop\вшз\NurPoker\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Nurbolat\Desktop\вшз\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csprojAssemblyReference.cache
+C:\Users\Nurbolat\Desktop\вшз\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csproj.CoreCompileInputs.cache
+C:\Users\Nurbolat\Desktop\вшз\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Nurbolat\Desktop\вшз\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfoInputs.cache
+C:\Users\Nurbolat\Desktop\вшз\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfo.cs
+C:\Users\Nurbolat\Desktop\вшз\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Nurbolat\Desktop\вшз\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Nurbolat\Desktop\Дипломка\Последняя версия\NurPoker\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.deps.json
+C:\Users\Nurbolat\Desktop\Дипломка\Последняя версия\NurPoker\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.json
+C:\Users\Nurbolat\Desktop\Дипломка\Последняя версия\NurPoker\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.runtimeconfig.dev.json
+C:\Users\Nurbolat\Desktop\Дипломка\Последняя версия\NurPoker\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Nurbolat\Desktop\Дипломка\Последняя версия\NurPoker\ReStart3\ReStart2\bin\Debug\netcoreapp2.0\ReStart2.pdb
+C:\Users\Nurbolat\Desktop\Дипломка\Последняя версия\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csprojAssemblyReference.cache
+C:\Users\Nurbolat\Desktop\Дипломка\Последняя версия\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.csproj.CoreCompileInputs.cache
+C:\Users\Nurbolat\Desktop\Дипломка\Последняя версия\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Nurbolat\Desktop\Дипломка\Последняя версия\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfoInputs.cache
+C:\Users\Nurbolat\Desktop\Дипломка\Последняя версия\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.AssemblyInfo.cs
+C:\Users\Nurbolat\Desktop\Дипломка\Последняя версия\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.dll
+C:\Users\Nurbolat\Desktop\Дипломка\Последняя версия\NurPoker\ReStart3\ReStart2\obj\Debug\netcoreapp2.0\ReStart2.pdb
